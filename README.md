@@ -10,7 +10,7 @@
 <!-- Dynamic Multi-Line Terminal Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=%E2%9A%A0%EF%B8%8F+CVE-2026-86226+%26+CVE-2026-86238+Credited+Author;%F0%9F%8F%86+TryHackMe+Global+Top+2%25+(Out+of+3M%2B+Users);%F0%9F%94%93+Web+%26+Android+Pentesting+(OWASP+Top+10+%2B+Reverse+Engineering);%F0%9F%90%9B+Bug+Bounty+Hunter+(HackerOne+%7C+Bugcrowd+%7C+OpenBugBounty);%E2%9A%A1+Creator+of+OneClick+Threat+Detector+%26+Digital+CSC+Model;%F0%9F%90%89+Kali+Linux+Enthusiast+%7C+Offensive+Red-Teamer" alt="Cyber Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=%E2%9A%A0%EF%B8%8F+CVE-2026-86226+%26+CVE-2026-86238+CVE-2026-105703+Credited+Author;%F0%9F%8F%86+TryHackMe+Global+Top+2%25+(Out+of+3M%2B+Users);%F0%9F%94%93+Web+%26+Android+Pentesting+(OWASP+Top+10+%2B+Reverse+Engineering);%F0%9F%90%9B+Bug+Bounty+Hunter+(HackerOne+%7C+Bugcrowd+%7C+OpenBugBounty);%E2%9A%A1+Creator+of+OneClick+Threat+Detector+%26+Digital+CSC+Model;%F0%9F%90%89+Kali+Linux+Enthusiast+%7C+Offensive+Red-Teamer" alt="Cyber Typing Animation" />
   </a>
 </p>
 
@@ -55,7 +55,7 @@
 ```bash
 shailendra@kali:~$ ./display_audit_records.sh --detailed
 [+] =========================================================================
-[+] CREDITED CVE DISCLOSURES : CVE-2026-86226 | CVE-2026-86238
+[+] CREDITED CVE DISCLOSURES : CVE-2026-86226 | CVE-2026-86238 | CVE-2026-105703
 [+] TRYHACKME STANDING       : Global Top 2% (3,000,000+ Active Users, 100+ Rooms)
 [+] INSTITUTIONAL AUDITS     : 20+ Critical Flaws in Gyan Ganga Enterprise Systems
                                -> SQLi, IDOR, Gateway Payment Bypass, Account Takeover
