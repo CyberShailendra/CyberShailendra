@@ -42,6 +42,9 @@
     <img src="https://img.shields.io/badge/CVE--2026--86226-Published%20Vulnerability-red?style=for-the-badge&logo=cve&logoColor=white"/>
   </a>
   <a href="https://cve.mitre.org/">
+    <img src="https://img.shields.io/badge/CVE--2026--107503-Published%20Vulnerability-red?style=for-the-badge&logo=cve&logoColor=white"/>
+  </a>
+  <a href="https://cve.mitre.org/">
     <img src="https://img.shields.io/badge/CVE--2026--86238-Published%20Vulnerability-red?style=for-the-badge&logo=cve&logoColor=white"/>
   </a>
   <a href="https://tryhackme.com/p/cybershailendra">
