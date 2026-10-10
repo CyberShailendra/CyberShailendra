@@ -16,11 +16,11 @@
 
 <!-- Interactive Live Status & Social Matrix -->
 <p align="center">
-  <a href="https://github.com/CyberShailendra1">
+  <a href="https://github.com/CyberShailendra">
     <img src="https://komarev.com/ghpvc/?username=CyberShailendra&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
-  <a href="https://github.com/CyberShailendra1">
-    <img src="https://img.shields.io/github/followers/CyberShailendra1?color=00ff41&style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS" alt="Followers" />
+  <a href="https://github.com/CyberShailendra">
+    <img src="https://img.shields.io/github/followers/CyberShailendra?color=00ff41&style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS" alt="Followers" />
   </a>
   <a href="https://linkedin.com/in/cybershailendra" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -95,7 +95,7 @@ $ cat mission.txt
         A fast-response cybersecurity utility designed to combat malicious downloads and deceptive cyber attacks. Built with static APK decompilation heuristics (manifest permissions, embedded endpoints) paired with real-time reputation analysis for zero-day phishing lures.
       </p>
       <p align="center">
-        <a href="https://github.com/CyberShailendra1/OneClick">
+        <a href="https://github.com/CyberShailendra/OneClick">
           <img src="https://img.shields.io/badge/View_Repo-OneClick_Suite-00ff41?style=for-the-badge&logo=github&logoColor=black"/>
         </a>
       </p>
@@ -229,14 +229,14 @@ $ cat mission.txt
 ## 📊 GitHub Contribution Radar & Stats
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=CyberShailendra1&theme=chartreuse-dark&hide_border=true&background=090d16&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="Streak Stats" />
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=CyberShailendra1&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=090d16&title_color=00ff41&icon_color=00ff41&text_color=ffffff" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=CyberShailendra&theme=chartreuse-dark&hide_border=true&background=090d16&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="Streak Stats" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=CyberShailendra&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=090d16&title_color=00ff41&icon_color=00ff41&text_color=ffffff" alt="GitHub Stats" />
 </p>
 
 ---
 
 <p align="center">
-  <img width="65%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CyberShailendra1&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=090d16&title_color=00ff41&text_color=ffffff" alt="Live Languages Telemetry" />
+  <img width="65%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CyberShailendra&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=090d16&title_color=00ff41&text_color=ffffff" alt="Live Languages Telemetry" />
 </p>
 
 ---
