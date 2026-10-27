@@ -170,6 +170,29 @@ $ cat mission.txt
 
 ---
 
+## 🛡️ My CVEs
+
+Independent security researcher & ethical hacker. CVEs below were assigned via [VulDB](https://vuldb.com/user/99999) (Sep–Oct 2026).
+
+| # | CVE | VDB Entry | Vulnerability | Severity | Endpoint (param) | Vendor | Product |
+|---|---|---|---|---|---|---|---|
+| 1 | [CVE-2026-86226](https://www.cve.org/CVERecord?id=CVE-2026-86226) | [VDB-399379](https://vuldb.com/vuln/399379) | Cross-Site Scripting (XSS) | 🟢 Low (3.5) | `profile.php` (email) | Projectwolds | Online Attendance System 1.0 |
+| 2 | [CVE-2026-86238](https://www.cve.org/CVERecord?id=CVE-2026-86238) | [VDB-399395](https://vuldb.com/vuln/399395) | Cross-Site Scripting (XSS) | 🟡 Medium (4.3) | `feedback.php` (Name/Subject) | Projectworlds | Online Examination System 1.0 |
+| 3 | [CVE-2026-105703](https://www.cve.org/CVERecord?id=CVE-2026-105703) | [VDB-413696](https://vuldb.com/vuln/413696) | Improper Authorization in Password Change | 🟡 Medium (4.7) | `loginsystem/admin/change-password.php` (currentpassword) | PHPGurukul | User Registration & Login and User Management System 3.3 |
+| 4 | [CVE-2026-114039](https://www.cve.org/CVERecord?id=CVE-2026-114039) | [VDB-423077](https://vuldb.com/vuln/423077) | SQL Injection | 🟡 Medium (6.3) | `report_search.php` (dateto/datefrom) | Projectworlds | Advanced Library Management System 1.0 |
+| 5 | [CVE-2026-114263](https://www.cve.org/CVERecord?id=CVE-2026-114263) | [VDB-424695](https://vuldb.com/vuln/424695) | SQL Injection | 🔴 High (7.3) | `individual_report_search.php` (roll_number) | ProjectWorlds | Advanced Library Management System 1.0 |
+| 6 | [CVE-2026-114264](https://www.cve.org/CVERecord?id=CVE-2026-114264) | [VDB-424696](https://vuldb.com/vuln/424696) | SQL Injection | 🟡 Medium (4.7) | `edit_member.php` (firstname/middlename/lastname/address/branch/type) | ProjectWorlds | Advanced Library Management System 1.0 |
+| 7 | [CVE-2026-114265](https://www.cve.org/CVERecord?id=CVE-2026-114265) | [VDB-424697](https://vuldb.com/vuln/424697) | SQL Injection | 🟡 Medium (6.3) | `returned_book_search.php` (datefrom/dateto) | ProjectWorlds | Advanced Library Management System 1.0 |
+| 8 | [CVE-2026-114266](https://www.cve.org/CVERecord?id=CVE-2026-114266) | [VDB-424698](https://vuldb.com/vuln/424698) | SQL Injection | 🟡 Medium (6.3) | `profile.php` (admin_id) | ProjectWorlds | Advanced Library Management System 1.0 |
+| 9 | [CVE-2026-116602](https://www.cve.org/CVERecord?id=CVE-2026-116602) | [VDB-426508](https://vuldb.com/vuln/426508) | Arbitrary File Deletion via Path Traversal | 🟡 Medium (6.5) | `admin/delete.php` (image_name) | SourceCodester | Online Food Ordering System 1.0 |
+| 10 | [CVE-2026-116603](https://www.cve.org/CVERecord?id=CVE-2026-116603) | [VDB-426509](https://vuldb.com/vuln/426509) | Unrestricted File Upload leading to RCE | 🟡 Medium (4.7) | `admin/add_food.php` (image) | SourceCodester | Online Food Ordering System 1.0 |
+| 11 | [CVE-2026-116604](https://www.cve.org/CVERecord?id=CVE-2026-116604) | [VDB-426510](https://vuldb.com/vuln/426510) | Missing Authentication on Admin Delete Endpoints | 🟡 Medium (6.5) | `admin/delete_admin.php` (id) | SourceCodester | Online Food Ordering System 1.0 |
+| 12 | [CVE-2026-116605](https://www.cve.org/CVERecord?id=CVE-2026-116605) | [VDB-426511](https://vuldb.com/vuln/426511) | Amount Tampering via Hidden Form Fields | 🟡 Medium (5.3) | `order.php` (price/title) | SourceCodester | Online Food Ordering System 1.0 |
+
+> Severity = CVSS base score; values can differ slightly between VulDB, NVD and CNA sources.
+
+
+
 ## 🏆 CTF Scoreboard & Hackathon Victories
 
 <table align="center" width="100%">
