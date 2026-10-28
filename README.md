@@ -37,15 +37,8 @@
 
 ## 🎯 Hall of Fame & Responsible CVE Disclosures
 
-<p align="center">
-  <a href="https://cve.mitre.org/">
-    <img src="https://img.shields.io/badge/CVE--2026--86226-Published%20Vulnerability-red?style=for-the-badge&logo=cve&logoColor=white"/>
-  </a>
-  <a href="https://cve.mitre.org/">
-    <img src="https://img.shields.io/badge/CVE--2026--105703-Published%20Vulnerability-red?style=for-the-badge&logo=cve&logoColor=white"/>
-  </a>
-  <a href="https://cve.mitre.org/">
-    <img src="https://img.shields.io/badge/CVE--2026--86238-Published%20Vulnerability-red?style=for-the-badge&logo=cve&logoColor=white"/>
+   <a href="https://vuldb.com/user/99999">
+    <img src="https://img.shields.io/badge/VulDB-Total_point_240-215C42?style=for-the-badge&logo=VulDB&logoColor=green"/>
   </a>
   <a href="https://tryhackme.com/p/cybershailendra">
     <img src="https://img.shields.io/badge/TryHackMe-Global_Top_2%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
